@@ -1,7 +1,7 @@
 # Plotting Choropleth Maps using Python
 
 
-[Video Tutorial](https://youtu.be/aJmaw3QKMvk)
+
 
 
 A choropleth map uses colour coding to indicate quantitative values across geographical areas on a map.
